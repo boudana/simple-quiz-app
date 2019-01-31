@@ -1,0 +1,24 @@
+*{
+    
+text-align: center
+
+}
+
+.quiz , .summary {
+    
+    display: none ;
+}
+.quiz ul {
+    padding: none;
+    list-style: none 
+    
+}
+
+.quiz li{
+    
+    cursor: pointer ;
+}
+.selected {
+    
+    background-color: darkorange ;
+}
