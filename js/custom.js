@@ -57,8 +57,6 @@ $(document).ready(function(){
     
 });
 
-
-
 function showQuestion(){
  var question = questions[courrentQuestion];
     $('.quiz h2').text(question.title);
